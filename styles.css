@@ -174,11 +174,11 @@ section {
 }
 
 .second table thead td{
-    font-weight: normal;
+    font-weight: bold;
 }
 
 .second table .title{
-    font-weight: bold;
+    font-weight: normal;
     color: darkblue;
     font-family: -apple-system, 'Lobster',BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
 }
