@@ -228,7 +228,6 @@ section {
 }
 
 .third h2{
-    font: 900;
     color: burlywood;
     margin: 10px auto;
     margin-top: 2rem;
@@ -267,5 +266,6 @@ section {
     .third .skilllist .box p{
         width: 80px;
         height: 80px;
+        font-size: 0.8rem
     }
 }
